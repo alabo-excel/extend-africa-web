@@ -36,9 +36,15 @@
       <div class="heading">social media</div>
       <div class="pt-3">
         <img class="px-2" src="../assets/icons/Youtube.png" alt="" />
-        <img class="px-2" src="../assets/icons/Instagram.png" alt="" />
+        <a
+          href="https://www.instagram.com/invites/contact/?i=6w05yw2x0kz6&utm_content=lt7kk1d"
+        >
+          <img class="px-2" src="../assets/icons/Instagram.png" alt="" />
+        </a>
         <img class="px-2" src="../assets/icons/Facebook.png" alt="" />
-        <img class="px-2" src="../assets/icons/Twitter.png" alt="" />
+        <a href="https://twitter.com/ExtendAfrica?s=09">
+          <img class="px-2" src="../assets/icons/Twitter.png" alt="" />
+        </a>
       </div>
     </div>
     <div class="col-12 line mt-5"></div>
@@ -73,7 +79,7 @@
 a {
   color: white;
 }
-a:hover{
+a:hover {
   text-decoration: none;
 }
 @media (max-width: 600px) {

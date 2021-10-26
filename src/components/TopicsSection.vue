@@ -48,11 +48,11 @@ export default {
           title: "Health",
         },
         {
-          img: "../src/assets/topics-icons/sports.png",
+          img: "../src/assets/topics-icons/stock.svg",
           title: "NFT",
         },
         {
-          img: "../src/assets/topics-icons/transportation.png",
+          img: "../src/assets/topics-icons/metaverse-etp-cryptocurrency.svg",
           title: "Metaverse",
         },
       ],
