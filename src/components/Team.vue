@@ -53,12 +53,12 @@ export default {
           stack: "Technical Lead",
         },
         {
-          name: "Albright Tejiri",
+          name: "Albright Tejiri Onodje",
           img: "../src/assets/teams/albright.jpg",
           stack: "Creative Director",
         },
         {
-          name: "Regianld Jumbo",
+          name: "Reginald Jumbo",
           img: "../src/assets/teams/reginald.jpg",
           stack: "Media Lead",
         },

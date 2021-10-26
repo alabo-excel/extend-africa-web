@@ -1,7 +1,7 @@
 <template>
   <div class="hero">
     <div class="text mx-auto">
-      Building a sustainble tech friendly ecosystem in africa and beyond using
+      Building a sustainable tech friendly ecosystem in africa and beyond using
       extended reality (AR, VR, MR).
       <div class="date my-2">DATE: SATURDAY 4TH DECEMBER 2021.</div>
       <div class="my-2">

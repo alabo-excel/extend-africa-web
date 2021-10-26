@@ -28,7 +28,8 @@ export default {
           </div>
           <div class="px-4">
             <div class="title">email</div>
-            <div class="text-white sub py-2">Xtendafric@gmailcom</div>
+            <div class="text-white sub py-2">hello@extend.africa</div>
+            <div class="text-white sub py-2">sponsor@extend.africa</div>
           </div>
         </div>
         <div class="col-lg-3">

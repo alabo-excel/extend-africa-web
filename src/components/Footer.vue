@@ -14,7 +14,6 @@
           <div class="py-1">Register for free</div>
         </a>
         <div class="py-1">become a partner</div>
-        <div class="py-1">become a sponsor</div>
         <div class="py-1">Donate</div>
       </div>
     </div>

@@ -21,7 +21,7 @@
           <div class="mt-3">
             We believe that with this platform, we can strategically project the
             works of extended reality creators in Africa to the world. We are
-            also certain that tgrough this platform, more people will find use
+            also certain that through this platform, more people will find use
             cases of extended reality in ways that will immensely improve their
             lives.
           </div>

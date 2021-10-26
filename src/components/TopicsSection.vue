@@ -49,11 +49,11 @@ export default {
         },
         {
           img: "../src/assets/topics-icons/sports.png",
-          title: "Sports",
+          title: "NFT",
         },
         {
           img: "../src/assets/topics-icons/transportation.png",
-          title: "Transportation",
+          title: "Metaverse",
         },
       ],
     };

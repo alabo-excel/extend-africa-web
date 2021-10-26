@@ -7,12 +7,14 @@
       </div>
       <img src="../assets/register.png" />
     </div>
-    <div class="col-lg-6 donate p-lg-5 p-4 d-flex justify-content-center">
-      <div class="px-2">
-        donate <br />
-        here
-      </div>
-      <img src="../assets/doante.png" />
+    <div class="col-lg-6 donate p-lg-5 p-4 ">
+      <a class="d-flex justify-content-center" href="https://www.eventbrite.com/e/extend-africa-tickets-194647244147">
+        <div class="px-2">
+          donate <br />
+          here
+        </div>
+        <img src="../assets/doante.png" />
+      </a>
     </div>
   </div>
 </template>
@@ -32,6 +34,12 @@
 img {
   width: 70px;
   height: 70px;
+}
+a{
+  color: white;
+}
+a:hover{
+  text-decoration: none;
 }
 @media (max-width: 600px) {
   img {
