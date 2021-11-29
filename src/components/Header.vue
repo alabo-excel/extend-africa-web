@@ -24,6 +24,9 @@
           <router-link to="/story">
             <li>our story</li>
           </router-link>
+          <router-link to="/speakers">
+            <li>speakers</li>
+          </router-link>
           <router-link to="/sponsors">
             <li>sponsors</li>
           </router-link>
