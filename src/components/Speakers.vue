@@ -2,7 +2,7 @@
   <div id="team" class="topic py-5">
     <div class="row">
       <div class="col-lg-2 text-center mx-auto">
-        <div class="heading">our team</div>
+        <div class="heading">speakers</div>
         <div class="line mx-auto"></div>
       </div>
     </div>
@@ -16,7 +16,7 @@
         <div class="team-overlay"></div>
         <div class="team-content text-left p-3">
           <div class="name">{{ team.name }}</div>
-          <div class="stack">{{ team.stack }}</div>
+          <!-- <div class="stack">{{ team.stack }}</div> -->
         </div>
       </div>
     </div>
@@ -28,44 +28,44 @@ export default {
     return {
       teams: [
         {
+          name: "Albright Tejiri Onodje",
+          img: "../src/assets/speakers/albright.png",
+          stack: "XA lead",
+        },
+        {
+          name: "Arome Ibrahim",
+          img: "../src/assets/speakers/arome.png",
+          stack: "XA lead",
+        },
+        {
           name: "Gospel Ononwi",
-          img: "../src/assets/teams/spells.jpg",
+          img: "../src/assets/speakers/gospel.png",
+          stack: "XA lead",
+        },
+        {
+          name: "Brant Hindman",
+          img: "../src/assets/speakers/hindman.png",
+          stack: "XA lead",
+        },
+        {
+          name: "Judith Okonkwo",
+          img: "../src/assets/speakers/judith.png",
+          stack: "XA lead",
+        },
+        {
+          name: "Oscar Michael",
+          img: "../src/assets/speakers/michael.png",
           stack: "XA lead",
         },
         {
           name: "Ryan Raphael",
-          img: "../src/assets/teams/ryan.jpg",
-          stack: "XA Co-lead",
+          img: "../src/assets/speakers/raphael.png",
+          stack: "XA lead",
         },
         {
-          name: "Owanate Amachree",
-          img: "../src/assets/teams/ruth.jpg",
-          stack: "Financial Director",
-        },
-        {
-          name: "Chibuzo Madu",
-          img: "../src/assets/teams/chibuzor.jpg",
-          stack: "Technical Lead",
-        },
-        {
-          name: "Albright Tejiri Onodje",
-          img: "../src/assets/teams/albright.jpg",
-          stack: "Creative Director",
-        },
-        {
-          name: "Arome Ibirahim",
-          img: "../src/assets/teams/arome.jpg",
-          stack: "Creative Director",
-        },
-        {
-          name: "Jennifer Etegbeke",
-          img: "../src/assets/teams/jenny.jpg",
-          stack: "Social Media Manager",
-        },
-        {
-          name: "Louis Whyte Jonah",
-          img: "../src/assets/teams/louis.jpg",
-          stack: "Design Lead",
+          name: "Zaid Zaim",
+          img: "../src/assets/speakers/zaid.png",
+          stack: "XA lead",
         },
       ],
     };
@@ -91,7 +91,7 @@ export default {
 .team-img {
   width: 200px;
   height: 250px;
-  border-bottom: 6px solid #00f470;
+  /* border-bottom: 6px solid #00f470; */
   border-radius: 5px;
 }
 .team-overlay {

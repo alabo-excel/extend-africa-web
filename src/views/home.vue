@@ -8,6 +8,7 @@ import Footer from "../components/Footer.vue";
 import Team from "../components/Team.vue";
 import Sponsors from "../components/Sponsors.vue";
 import Attendees from "../components/Attendees.vue";
+import Speakers from "../components/Speakers.vue";
 export default{
   components: {
     Header,
@@ -19,8 +20,9 @@ export default{
     Footer,
     Team,
     Sponsors,
-    Attendees
-  }
+    Attendees,
+    Speakers
+}
 }
 </script>
 
@@ -31,6 +33,7 @@ export default{
     <AboutSection />
     <TopicsSection />
     <Attendees />
+    <Speakers />
     <Sponsors />
     <Team />
     <RegisterSection />

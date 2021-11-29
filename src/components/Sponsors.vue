@@ -10,7 +10,7 @@
       <div
         v-for="(sponsor, index) in sponsors"
         :key="index"
-        class="col-lg-2 topic-card  m-lg-4 m-2 p-lg-5 p-2 text-center text-white"
+        class="col-lg-2 topic-card m-lg-4 m-2 p-lg-5 p-2 text-center text-white"
       >
         <img class="icon" :src="sponsor.img" alt="" />
         <!-- <div class="py-2">{{ sponsor.desc }}</div> -->
@@ -29,27 +29,35 @@ export default {
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/experis-immersive.png",
+          img: "..//src/assets/sponsors/experis.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/sds-06.png",
+          img: "..//src/assets/sponsors/laninb.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/Techrity.png",
+          img: "..//src/assets/sponsors/techrity.png",
           desc: "lorem ipsum",
         },
-         {
-          img: "..//src/assets/sponsors/gandmasters.png",
+        {
+          img: "..//src/assets/sponsors/grandmaster.png",
           desc: "lorem ipsum",
         },
-         {
-          img: "..//src/assets/sponsors/ata.jpg",
+        {
+          img: "..//src/assets/sponsors/ata.png",
           desc: "lorem ipsum",
         },
-         {
+        {
           img: "..//src/assets/sponsors/urban-dev.png",
+          desc: "lorem ipsum",
+        },
+        {
+          img: "..//src/assets/sponsors/sustainable.png",
+          desc: "lorem ipsum",
+        },
+        {
+          img: "..//src/assets/sponsors/echo3d.png",
           desc: "lorem ipsum",
         },
       ],
@@ -70,7 +78,7 @@ export default {
   text-transform: uppercase;
   font-family: "oswald";
 }
-img{
+img {
   width: 100%;
 }
 .topic {
@@ -81,7 +89,7 @@ img{
   border-bottom: 5px solid #003edd;
 }
 @media (max-width: 600px) {
-  .topic-card{
+  .topic-card {
     width: 40%;
   }
 }
