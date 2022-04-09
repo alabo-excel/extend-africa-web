@@ -6,7 +6,7 @@
         <div class="overlay"></div>
       </div>
       <div class="col-lg-6">
-        <div class="p-5 m-lg-5">
+        <div class="p-5 m-lg-3">
           <div class="green heading">OUR STORY</div>
           <div class="mt-5">
             Extend Africa is a community for the immersive tech ecosystem in

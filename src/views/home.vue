@@ -1,41 +1,32 @@
 <script>
 import Header from "../components/Header.vue";
-import Hero from "../components/Hero.vue";
-import AboutSection from "../components/AboutSection.vue";
-import TopicsSection from "../components/TopicsSection.vue";
 import RegisterSection from "../components/RegisterSection.vue";
 import Footer from "../components/Footer.vue";
-import Team from "../components/Team.vue";
+import Video from "../components/VideoHero.vue";
+import ComingSoon from "../components/ComingSoon.vue";
+import Gallary from "../components/Gallary.vue";
 import Sponsors from "../components/Sponsors.vue";
-import Attendees from "../components/Attendees.vue";
-import Speakers from "../components/Speakers.vue";
-export default{
+
+export default {
   components: {
     Header,
-    Hero,
-    AboutSection,
-    AboutSection,
     RegisterSection,
-    TopicsSection,
     Footer,
-    Team,
+    Video,
+    ComingSoon,
+    Gallary,
     Sponsors,
-    Attendees,
-    Speakers
-}
-}
+  },
+};
 </script>
 
 <template>
   <div id="app">
-    <Header />
-    <Hero />
-    <AboutSection />
-    <TopicsSection />
-    <Attendees />
-    <Speakers />
+    <!-- <Header /> -->
+    <Video />
+    <ComingSoon />
     <Sponsors />
-    <Team />
+    <Gallary />
     <RegisterSection />
     <Footer />
   </div>
@@ -50,10 +41,10 @@ export default{
   margin-left: 0px !important;
   margin-right: 0px !important;
 }
-a{
+a {
   text-decoration: none;
 }
-a.hover{
+a.hover {
   text-decoration: none;
 }
 @media (max-width: 600px) {

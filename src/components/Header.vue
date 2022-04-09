@@ -1,3 +1,8 @@
+<script>
+export default {
+  
+}
+</script>
 <template>
   <div class="header-nav">
     <nav class="navbar px-lg-5 mx-lg-5 mx-3 navbar-expand-lg">
@@ -21,7 +26,16 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto p-2">
+          <router-link to="/conference">
+            <li>Conference</li>
+          </router-link>
           <router-link to="/story">
+            <li>Academy</li>
+          </router-link>
+          <a href="https://blog.extend.africa/">
+            <li>Blog</li>
+          </a>
+          <!-- <router-link to="/story">
             <li>our story</li>
           </router-link>
           <router-link to="/speakers">
@@ -35,13 +49,14 @@
           </router-link>
           <router-link to="/contact">
             <li>contact us</li>
-          </router-link>
-          <a
+          </router-link> -->
+
+          <!-- <a
             target="blank"
             href="https://www.eventbrite.com/e/extend-africa-tickets-194647244147"
           >
             <li class="register px-4 ml-lg-5">register</li>
-          </a>
+          </a> -->
         </ul>
       </div>
     </nav>

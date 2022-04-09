@@ -3,7 +3,7 @@
     <div class="text mx-auto">
       Building a sustainable tech friendly ecosystem in africa and beyond using
       extended reality (AR, VR, MR).
-      <div class="date my-2">DATE: SATURDAY 4TH DECEMBER 2021.</div>
+      <!-- <div class="date my-2">DATE: SATURDAY 4TH DECEMBER 2021.</div>
       <div class="my-2">
         <a
           target="blank"
@@ -11,7 +11,7 @@
         >
           <input class="p-2 px-3" type="button" value="REGISTER HERE" />
         </a>
-      </div>
+      </div> -->
     </div>
     <img class="pattern" src="../assets/pattern.png" alt="" />
   </div>

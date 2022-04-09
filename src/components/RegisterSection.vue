@@ -1,6 +1,6 @@
 <template>
   <div class="row text-white text-center">
-    <div class="col-lg-6 register p-lg-5 p-4 d-flex justify-content-center">
+    <!-- <div class="col-lg-6 register p-lg-5 p-4 d-flex justify-content-center">
       <a
         class="d-flex justify-content-center"
         target="blank"
@@ -12,8 +12,8 @@
         </div>
         <img src="../assets/register.png" />
       </a>
-    </div>
-    <div class="col-lg-6 d-flex justify-content-center donate p-lg-5 p-4">
+    </div> -->
+    <div class="col-lg-12 d-flex justify-content-center donate p-lg-5 p-4">
       <div class="px-2">
         donate <br />
         here

@@ -33,11 +33,6 @@ export default {
           stack: "XA lead",
         },
         {
-          name: "Ryan Raphael",
-          img: "../src/assets/teams/ryan.jpg",
-          stack: "XA Co-lead",
-        },
-        {
           name: "Owanate Amachree",
           img: "../src/assets/teams/ruth.jpg",
           stack: "Financial Director",
@@ -48,16 +43,6 @@ export default {
           stack: "Technical Lead",
         },
         {
-          name: "Albright Tejiri Onodje",
-          img: "../src/assets/teams/albright.jpg",
-          stack: "Creative Director",
-        },
-        {
-          name: "Arome Ibirahim",
-          img: "../src/assets/teams/arome.jpg",
-          stack: "Creative Director",
-        },
-        {
           name: "Jennifer Etegbeke",
           img: "../src/assets/teams/jenny.jpg",
           stack: "Social Media Manager",
@@ -66,6 +51,16 @@ export default {
           name: "Louis Whyte Jonah",
           img: "../src/assets/teams/louis.jpg",
           stack: "Design Lead",
+        },
+        {
+          name: "Chekwube Peters",
+          img: "../src/assets/teams/chekwube.jpg",
+          stack: "Community Manager",
+        },
+        {
+          name: "Alabo Excel",
+          img: "../src/assets/teams/ryan.jpg",
+          stack: "XA Co-lead",
         },
       ],
     };
