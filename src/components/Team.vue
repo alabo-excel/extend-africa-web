@@ -35,12 +35,17 @@ export default {
         {
           name: "Owanate Amachree",
           img: "../src/assets/teams/ruth.jpg",
-          stack: "Financial Director",
+          stack: "Partner",
         },
         {
           name: "Chibuzo Madu",
           img: "../src/assets/teams/chibuzor.jpg",
-          stack: "Technical Lead",
+          stack: "Partner",
+        },
+        {
+          name: "Ryan Raphel",
+          img: "../src/assets/teams/ryan.jpg",
+          stack: "Partner",
         },
         {
           name: "Jennifer Etegbeke",
@@ -59,8 +64,8 @@ export default {
         },
         {
           name: "Alabo Excel",
-          img: "../src/assets/teams/ryan.jpg",
-          stack: "XA Co-lead",
+          img: "../src/assets/teams/alabo.jpg",
+          // stack: "Partner",
         },
       ],
     };

@@ -26,7 +26,7 @@ export default {
     <Video />
     <ComingSoon />
     <Sponsors />
-    <Gallary />
+    <!-- <Gallary /> -->
     <RegisterSection />
     <Footer />
   </div>

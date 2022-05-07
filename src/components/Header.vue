@@ -1,7 +1,5 @@
 <script>
-export default {
-  
-}
+export default {};
 </script>
 <template>
   <div class="header-nav">
@@ -29,12 +27,15 @@ export default {
           <router-link to="/conference">
             <li>Conference</li>
           </router-link>
-          <router-link to="/story">
+          <router-link to="/academy">
             <li>Academy</li>
           </router-link>
-          <a href="https://blog.extend.africa/">
-            <li>Blog</li>
+          <a target="blank" href="https://opensea.io/ExtendAfrica22">
+            <li>NFT</li>
           </a>
+          <router-link to="/academy">
+            <li>Donate</li>
+          </router-link>
           <!-- <router-link to="/story">
             <li>our story</li>
           </router-link>
@@ -66,8 +67,12 @@ export default {
 <style scoped>
 .navbar {
   background: transparent !important;
-  padding-left: 100px !important;
-  padding-right: 100px !important;
+  padding-left: 60px !important;
+  padding-right: 60px !important;
+  position: absolute;
+  top: 0;
+  z-index: 10;
+  width: 95%;
 }
 ul li {
   text-transform: uppercase;
@@ -78,12 +83,14 @@ ul li {
   font-size: 14px;
   padding: 10px;
 }
+
 .register {
   border: 1px solid #00f470;
 }
 a:hover {
   text-decoration: none;
 }
+
 @media (max-width: 600px) {
   .navbar {
     padding: 10px !important;
@@ -97,6 +104,9 @@ a:hover {
   }
   .logo {
     width: 40px;
+  }
+  .collapse {
+    background: #010216;
   }
 }
 </style>

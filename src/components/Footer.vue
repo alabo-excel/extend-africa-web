@@ -7,12 +7,12 @@
     <div class="col-lg-2 m-3">
       <div class="heading">quick links</div>
       <div class="links pt-2">
-        <a
+        <!-- <a
           target="blank"
           href="https://www.eventbrite.com/e/extend-africa-tickets-194647244147"
         >
           <div class="py-1">Register for free</div>
-        </a>
+        </a> -->
         <div class="py-1">become a partner</div>
         <div class="py-1">Donate</div>
       </div>
@@ -20,14 +20,14 @@
     <div class="col-lg-2 m-3">
       <div class="heading">other links</div>
       <div class="links pt-2">
-        <router-link to="/story">
+        <router-link to="/">
           <div class="py-1">Our Story</div>
         </router-link>
         <div class="py-1">Speakers</div>
-        <router-link to="/team">
+        <router-link to="/conference">
           <div class="py-1">Team</div>
         </router-link>
-        <router-link to="/contact">
+        <router-link to="/">
           <div class="py-1">Contact Us</div>
         </router-link>
       </div>

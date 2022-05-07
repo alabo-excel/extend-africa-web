@@ -28,7 +28,7 @@
 }
 .text {
   width: 40%;
-  padding-top: 9%;
+  padding-top: 13%;
   text-transform: uppercase;
   font-family: 'oswald';
 }
@@ -54,12 +54,12 @@ input {
 @media (max-width: 600px) {
   .hero {
     font-size: 23px;
-    height: 90vh;
+    height: 55vh;
     font-weight: bolder !important;
   }
   .text {
     width: 85%;
-    padding-top: 25%;
+    padding-top: 35%;
   }
 }
 </style>

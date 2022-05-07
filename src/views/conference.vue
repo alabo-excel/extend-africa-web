@@ -9,6 +9,8 @@ import Team from "../components/Team.vue";
 import Sponsors from "../components/Sponsors.vue";
 import Attendees from "../components/Attendees.vue";
 import Speakers from "../components/Speakers.vue";
+import Gallary from "../components/Gallary.vue";
+
 export default{
   components: {
     Header,
@@ -18,6 +20,7 @@ export default{
     RegisterSection,
     TopicsSection,
     Footer,
+    Gallary,
     Team,
     Sponsors,
     Attendees,
@@ -32,6 +35,7 @@ export default{
     <Hero />
     <AboutSection />
     <TopicsSection />
+    <Gallary />
     <Attendees />
     <!-- <Speakers /> -->
     <Sponsors />
