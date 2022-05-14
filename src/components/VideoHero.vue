@@ -18,7 +18,6 @@ export default {
       <Header />
       <div class="text text-left">
         <div class="bigger">Extend Africa</div>
-
         Building a sustainable tech friendly ecosystem in africa and beyond
         using extended reality (AR, VR, MR).
       </div>
@@ -37,7 +36,7 @@ export default {
   height: 114vh;
   color: white;
   font-weight: bolder;
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
   position: absolute;
   top: 0;
