@@ -33,7 +33,7 @@ export default {};
           <a target="blank" href="https://opensea.io/ExtendAfrica22">
             <li>NFT</li>
           </a>
-          <router-link to="/academy">
+          <router-link to="/donate">
             <li>Donate</li>
           </router-link>
           <!-- <router-link to="/story">

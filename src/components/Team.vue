@@ -65,7 +65,7 @@ export default {
         {
           name: "Alabo Excel",
           img: "../src/assets/teams/alabo.jpg",
-          // stack: "Partner",
+          stack: "Developer",
         },
       ],
     };

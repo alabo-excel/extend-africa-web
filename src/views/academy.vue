@@ -32,28 +32,25 @@ export default {
       <div class="col-10 p-4 col-lg-3 card mb-lg-3 mb-3">
         <h4 class="heading mb-4">AR/VR Dev</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum totam
-          amet autem, error voluptatem eligendi modi quo cumque unde asperiores
-          aliquam earum deserunt impedit quas omnis necessitatibus! Voluptates,
-          eos laborum.
+          The average salary of The salaries of an AR/VR developer ranges from a low of $160,000 to a high of $210,000, with a median salary of $180,000.
         </p>
       </div>
       <div class="col-10 p-4 col-lg-3 card mb-lg-3 mb-3">
         <h4 class="heading mb-4">Game Dev</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum totam
-          amet autem, error voluptatem eligendi modi quo cumque unde asperiores
-          aliquam earum deserunt impedit quas omnis necessitatibus! Voluptates,
-          eos laborum.
+          According to ZipRecruiter, the national average salary for a Game
+          Developer is $101,644. The national hourly rate is $49. On average, a
+          Game Developer’s pay typically ranges from $36.06 per hour to $62.02
+          per hour.
         </p>
       </div>
       <div class="col-10 p-4 col-lg-3 card mb-lg-3 mb-3">
         <h4 class="heading mb-4">3D Modeling</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum totam
-          amet autem, error voluptatem eligendi modi quo cumque unde asperiores
-          aliquam earum deserunt impedit quas omnis necessitatibus! Voluptates,
-          eos laborum.
+          The average 3D Modeler salary is $71,154 per year, or $34.21 per hour,
+          in the United States. People on the lower end of that spectrum, the
+          bottom 10% to be exact, make roughly $40,000 a year, while the top 10%
+          makes $125,000.
         </p>
       </div>
     </div>
