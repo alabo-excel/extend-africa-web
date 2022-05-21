@@ -8,46 +8,46 @@
     </div>
     <div class="row">
       <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend2.JPG" alt="" />
+        <img src="/assets/xa/extend2.jpg" alt="" />
       </div>
       <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend1.JPG" alt="" />
+        <img src="/assets/xa/extend1.jpg" alt="" />
       </div>
       <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend7.JPG" alt="" />
-      </div>
-    </div>
-    <div class="row mt-lg-4">
-      <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend4.JPG" alt="" />
-      </div>
-      <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend5.JPG" alt="" />
-      </div>
-      <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend9.JPG" alt="" />
+        <img src="/assets/xa/extend7.jpg" alt="" />
       </div>
     </div>
     <div class="row mt-lg-4">
       <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend6.JPG" alt="" />
+        <img src="/assets/xa/extend4.jpg" alt="" />
       </div>
       <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend8.JPG" alt="" />
+        <img src="/assets/xa/extend5.jpg" alt="" />
       </div>
       <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend10.JPG" alt="" />
+        <img src="/assets/xa/extend9.jpg" alt="" />
       </div>
     </div>
     <div class="row mt-lg-4">
       <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend11.JPG" alt="" />
+        <img src="/assets/xa/extend6.jpg" alt="" />
       </div>
       <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend12.JPG" alt="" />
+        <img src="/assets/xa/extend8.jpg" alt="" />
       </div>
       <div class="col-6 col-lg-4">
-        <img src="../assets/xa/extend13.jpg" alt="" />
+        <img src="/assets/xa/extend10.jpg" alt="" />
+      </div>
+    </div>
+    <div class="row mt-lg-4">
+      <div class="col-6 col-lg-4">
+        <img src="/assets/xa/extend11.jpg" alt="" />
+      </div>
+      <div class="col-6 col-lg-4">
+        <img src="/assets/xa/extend12.jpg" alt="" />
+      </div>
+      <div class="col-6 col-lg-4">
+        <img src="/assets/xa/extend13.jpg" alt="" />
       </div>
     </div>
     <div class="d-flex my-5 justify-content-center">

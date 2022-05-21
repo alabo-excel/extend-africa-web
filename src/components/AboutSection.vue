@@ -2,7 +2,7 @@
   <div>
     <div class="row first-section">
       <div class="col-lg-6">
-        <img src="../assets/story.png" alt="" />
+        <img src="/assets/story.png" alt="" />
         <div class="overlay"></div>
       </div>
       <div class="col-lg-6">

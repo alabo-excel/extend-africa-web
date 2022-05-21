@@ -31,7 +31,7 @@ export default {
     <section class="first">
       <div class="d-lg-flex justify-content-center pt-5">
         <div class="col-lg-5">
-          <img class="w-1/5" src="../assets/G3.png" alt="" />
+          <img class="w-1/5" src="/assets/G3.png" alt="" />
         </div>
         <div class="col-lg-5">
           <div class="text-container p-4">
@@ -52,7 +52,7 @@ export default {
     <section class="">
       <div class="d-lg-flex justify-content-center">
         <div class="col-lg-5 order-lg-last">
-          <img class="w-1/5" src="../assets/G5.png" alt="" />
+          <img class="w-1/5" src="/assets/G5.png" alt="" />
         </div>
 
         <div class="col-lg-5 order-lg-firs">
@@ -74,7 +74,7 @@ export default {
     <section class="first">
       <div class="d-lg-flex justify-content-center">
         <div class="col-lg-5">
-          <img class="w-1/5" src="../assets/G2.png" alt="" />
+          <img class="w-1/5" src="/assets/G2.png" alt="" />
         </div>
         <div class="col-lg-5">
           <div class="mt-4 p-4">
@@ -109,7 +109,7 @@ export default {
           </div>
         </div>
         <div class="col-lg-5">
-          <img class="w-1/5" src="../assets/G1.png" alt="" />
+          <img class="w-1/5" src="/assets/G1.png" alt="" />
         </div>
       </div>
     </section>

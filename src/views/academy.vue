@@ -28,7 +28,7 @@ export default {
         </a>
       </div>
       <div class="col-11 col-lg-5 mt-lg-0 mt-5">
-        <img class="img" src="../assets/xa/hero-bg.png" alt="" />
+        <img class="img" src="/assets/xa/hero-bg.png" alt="" />
       </div>
     </div>
     <div class="row stacks">
@@ -61,7 +61,7 @@ export default {
     </div>
     <div class="row justify-content-center yo p-lg-5 p-3">
       <div class="col-lg-3 col-10">
-        <img class="img" src="../assets/xa/img.png" alt="" />
+        <img class="img" src="/assets/xa/img.png" alt="" />
       </div>
       <div
         class="
@@ -103,7 +103,7 @@ export default {
     </div>
     <div class="discord p-5 text-center">
       <div>
-        <img class="discord-img" src="../assets/discord.png" alt="" />
+        <img class="discord-img" src="/assets/discord.png" alt="" />
       </div>
       <h1>Join our discord community</h1>
       <a href="https://discord.gg/m9KA5TFGWw" target="blank">

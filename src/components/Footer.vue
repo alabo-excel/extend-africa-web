@@ -1,7 +1,7 @@
 <template>
   <div class="row justify-content-center px-lg-5 pt-lg-5 pt-3">
     <div class="col-lg-2 m-3">
-      <img src="../assets/footer-logo.png" alt="" />
+      <img src="/assets/footer-logo.png" alt="" />
       <div class="text-white name my-2">extend africa</div>
     </div>
     <div class="col-lg-2 m-3">
@@ -39,15 +39,15 @@
     <div class="col-lg-2 m-3">
       <div class="heading">social media</div>
       <div class="pt-3">
-        <img class="px-2" src="../assets/icons/Youtube.png" alt="" />
+        <img class="px-2" src="/assets/icons/Youtube.png" alt="" />
         <a
           href="https://www.instagram.com/invites/contact/?i=6w05yw2x0kz6&utm_content=lt7kk1d"
         >
-          <img class="px-2" src="../assets/icons/Instagram.png" alt="" />
+          <img class="px-2" src="/assets/icons/Instagram.png" alt="" />
         </a>
-        <img class="px-2" src="../assets/icons/Facebook.png" alt="" />
+        <img class="px-2" src="/assets/icons/Facebook.png" alt="" />
         <a href="https://twitter.com/ExtendAfrica?s=09">
-          <img class="px-2" src="../assets/icons/Twitter.png" alt="" />
+          <img class="px-2" src="/assets/icons/Twitter.png" alt="" />
         </a>
       </div>
     </div>

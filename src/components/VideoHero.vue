@@ -9,10 +9,10 @@ export default {
 <template>
   <div class="video">
     <video autoplay loop muted id="background-video">
-      <source src="../assets/bg.mp4" type="video/mp4" />
+      <source src="/assets/bg.mp4" type="video/mp4" />
     </video>
     <div class="bg-img">
-      <img src="../assets/xa/hero.jpg" alt="" />
+      <img src="/assets/xa/hero.jpg" alt="" />
     </div>
     <div class="hero">
       <Header />
@@ -21,7 +21,7 @@ export default {
         Building a sustainable tech friendly ecosystem in africa and beyond
         using extended reality (AR, VR, MR).
       </div>
-      <img class="pattern" src="../assets/pattern.png" alt="" />
+      <img class="pattern" src="/assets/pattern.png" alt="" />
     </div>
     <div class="overlay"></div>
   </div>
@@ -31,7 +31,7 @@ export default {
   width: 100%;
 }
 .hero {
-  background: url(../assets/mian-africa.svg);
+  background: url(/assets/mian-africa.svg);
   size: cover;
   height: 114vh;
   color: white;

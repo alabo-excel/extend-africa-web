@@ -24,35 +24,35 @@ export default {
     return {
       topics: [
         {
-          img: "../src/assets/topics-icons/education.png",
+          img: "/assets/topics-icons/education.png",
           title: "Education",
         },
         {
-          img: "../src/assets/topics-icons/fashion.png",
+          img: "/assets/topics-icons/fashion.png",
           title: "Fashion",
         },
         {
-          img: "../src/assets/topics-icons/tourism.png",
+          img: "/assets/topics-icons/tourism.png",
           title: "Tourism",
         },
         {
-          img: "../src/assets/topics-icons/real-estate.png",
+          img: "/assets/topics-icons/real-estate.png",
           title: "Real Estate",
         },
         {
-          img: "../src/assets/topics-icons/games.png",
+          img: "/assets/topics-icons/games.png",
           title: "Games",
         },
         {
-          img: "../src/assets/topics-icons/health.png",
+          img: "/assets/topics-icons/health.png",
           title: "Health",
         },
         {
-          img: "../src/assets/topics-icons/stock.svg",
+          img: "/assets/topics-icons/stock.svg",
           title: "NFT",
         },
         {
-          img: "../src/assets/topics-icons/metaverse-etp-cryptocurrency.svg",
+          img: "/assets/topics-icons/metaverse-etp-cryptocurrency.svg",
           title: "Metaverse",
         },
       ],

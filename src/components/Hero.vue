@@ -13,12 +13,12 @@
         </a>
       </div> -->
     </div>
-    <img class="pattern" src="../assets/pattern.png" alt="" />
+    <img class="pattern" src="/assets/pattern.png" alt="" />
   </div>
 </template>
 <style scoped>
 .hero {
-  background: url(../assets/mian-africa.svg);
+  background: url(/assets/mian-africa.svg);
   size: cover;
   height: 90vh;
   color: white;

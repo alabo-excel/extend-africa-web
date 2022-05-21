@@ -24,7 +24,7 @@ export default {
       <div class="row justify-content-center">
         <div class="col-lg-3">
           <div class="m-4 p-5 contact-card">
-            <img src="../../src/assets/mail.png" alt="" />
+            <img src="/assets/mail.png" alt="" />
           </div>
           <div class="px-4">
             <div class="title">email</div>
@@ -34,7 +34,7 @@ export default {
         </div>
         <div class="col-lg-3">
           <div class="m-4 p-5 contact-card">
-            <img src="../../src/assets/call.png" alt="" />
+            <img src="/assets/call.png" alt="" />
           </div>
           <div class="px-4">
             <div class="title">Phone Number</div>

@@ -10,7 +10,7 @@
           register <br />
           here
         </div>
-        <img src="../assets/register.png" />
+        <img src="/assets/register.png" />
       </a>
     </div> -->
     <div class="col-lg-12 d-flex justify-content-center donate p-lg-5 p-4">
@@ -21,7 +21,7 @@
         </div>
       </a>
       <a href="https://paystack.com/pay/Thanks4Donating" target="blank">
-        <img src="../assets/doante.png" />
+        <img src="/assets/doante.png" />
       </a>
     </div>
   </div>

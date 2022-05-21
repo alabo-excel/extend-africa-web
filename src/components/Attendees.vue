@@ -24,51 +24,51 @@ export default {
     return {
       topics: [
         {
-          img: "../src/assets/attendees/media.png",
+          img: "/assets/attendees/media.png",
           title: "Media Partners",
         },
         {
-          img: "../src/assets/attendees/educationist.png",
+          img: "/assets/attendees/educationist.png",
           title: "Educationist",
         },
         {
-          img: "../src/assets/attendees/media.png",
+          img: "/assets/attendees/media.png",
           title: "Telecom Providers",
         },
         {
-          img: "../src/assets/attendees/stat.png",
+          img: "/assets/attendees/stat.png",
           title: "Media Partners",
         },
         {
-          img: "../src/assets/attendees/designers.png",
+          img: "/assets/attendees/designers.png",
           title: "Designers",
         },
         {
-          img: "../src/assets/attendees/developers.png",
+          img: "/assets/attendees/developers.png",
           title: "Web Developers",
         },
         {
-          img: "../src/assets/attendees/arvr.png",
+          img: "/assets/attendees/arvr.png",
           title: "AR/VR Developers",
         },
         {
-          img: "../src/assets/attendees/designers.png",
+          img: "/assets/attendees/designers.png",
           title: "Media Partners",
         },
         {
-          img: "../src/assets/attendees/business.png",
+          img: "/assets/attendees/business.png",
           title: "Business Moguls",
         },
         {
-          img: "../src/assets/attendees/researchers.png",
+          img: "/assets/attendees/researchers.png",
           title: "Researchers",
         },
         {
-          img: "../src/assets/attendees/investors.png",
+          img: "/assets/attendees/investors.png",
           title: "Investors",
         },
         {
-          img: "../src/assets/attendees/automobile.png",
+          img: "/assets/attendees/automobile.png",
           title: "Automobile Companies",
         },
       ],

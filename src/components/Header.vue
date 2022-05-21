@@ -5,7 +5,7 @@ export default {};
   <div class="header-nav">
     <nav class="navbar px-lg-5 mx-lg-5 mx-3 navbar-expand-lg">
       <router-link to="/">
-        <img class="logo" src="../assets/logo.png  " />
+        <img class="logo" src="/assets/logo.png  " />
       </router-link>
       <button
         class="navbar-toggler text-white mt-2"

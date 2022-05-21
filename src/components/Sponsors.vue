@@ -25,39 +25,39 @@ export default {
     return {
       sponsors: [
         {
-          img: "..//src/assets/sponsors/accelerate.png",
+          img: "/assets/sponsors/accelerate.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/experis.png",
+          img: "/assets/sponsors/experis.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/laninb.png",
+          img: "/assets/sponsors/laninb.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/techrity.png",
+          img: "/assets/sponsors/techrity.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/grandmaster.png",
+          img: "/assets/sponsors/grandmaster.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/ata.png",
+          img: "/assets/sponsors/ata.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/urban-dev.png",
+          img: "/assets/sponsors/urban-dev.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/sustainable.png",
+          img: "/assets/sponsors/sustainable.png",
           desc: "lorem ipsum",
         },
         {
-          img: "..//src/assets/sponsors/echo3d.png",
+          img: "/assets/sponsors/echo3d.png",
           desc: "lorem ipsum",
         },
       ],

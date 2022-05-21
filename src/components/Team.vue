@@ -29,42 +29,42 @@ export default {
       teams: [
         {
           name: "Gospel Ononwi",
-          img: "../src/assets/teams/spells.jpg",
+          img: "/assets/teams/spells.jpg",
           stack: "XA lead",
         },
         {
           name: "Owanate Amachree",
-          img: "../src/assets/teams/ruth.jpg",
+          img: "/assets/teams/ruth.jpg",
           stack: "Partner",
         },
         {
           name: "Chibuzo Madu",
-          img: "../src/assets/teams/chibuzor.jpg",
+          img: "/assets/teams/chibuzor.jpg",
           stack: "Partner",
         },
         {
           name: "Ryan Raphel",
-          img: "../src/assets/teams/ryan.jpg",
+          img: "/assets/teams/ryan.jpg",
           stack: "Partner",
         },
         {
           name: "Jennifer Etegbeke",
-          img: "../src/assets/teams/jenny.jpg",
+          img: "/assets/teams/jenny.jpg",
           stack: "Social Media Manager",
         },
         {
           name: "Louis Whyte Jonah",
-          img: "../src/assets/teams/louis.jpg",
+          img: "/assets/teams/louis.jpg",
           stack: "Design Lead",
         },
         {
           name: "Chekwube Peters",
-          img: "../src/assets/teams/chekwube.jpg",
+          img: "/assets/teams/chekwube.jpg",
           stack: "Community Manager",
         },
         {
           name: "Alabo Excel",
-          img: "../src/assets/teams/alabo.jpg",
+          img: "/assets/teams/alabo.jpg",
           stack: "Developer",
         },
       ],
