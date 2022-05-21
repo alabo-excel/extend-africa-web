@@ -21,7 +21,7 @@ export default {
           leading experts.
         </div>
         <a href="">
-          <button class="btn p-3">START LEARNING</button>
+          <button class="btn p-3">APPLY NOW</button>
         </a>
       </div>
       <div class="col-11 col-lg-5 mt-lg-0 mt-5">

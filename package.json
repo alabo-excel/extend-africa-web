@@ -9,6 +9,7 @@
   "dependencies": {
     "vue": "^3.2.16",
     "vue-flutterwave": "^1.0.0",
+    "vue-paystack": "^2.0.4",
     "vue-router": "4"
   },
   "devDependencies": {
