@@ -14,13 +14,15 @@
       </a>
     </div> -->
     <div class="col-lg-12 d-flex justify-content-center donate p-lg-5 p-4">
-      <a href="https://paystack.com/pay/Thanks4Donating">
+      <a href="https://paystack.com/pay/Thanks4Donating" target="blank">
         <div class="px-2">
           donate <br />
           here
         </div>
       </a>
-      <img src="../assets/doante.png" />
+      <a href="https://paystack.com/pay/Thanks4Donating" target="blank">
+        <img src="../assets/doante.png" />
+      </a>
     </div>
   </div>
 </template>

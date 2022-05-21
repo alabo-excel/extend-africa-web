@@ -36,9 +36,8 @@ export default {};
           <router-link to="/donate">
             <li>Donate</li>
           </router-link>
-          <!-- <router-link to="/story">
-            <li>our story</li>
-          </router-link>
+          <a href="https://blog.extend.africa/" target="blank"> <li>Blog</li></a>
+          <!--
           <router-link to="/speakers">
             <li>speakers</li>
           </router-link>

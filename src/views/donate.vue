@@ -119,7 +119,7 @@ export default {
               achieve our goals.
             </div>
             <div class="mt-4">
-              <a href="mailto:xtendafrica@gmail.com">
+              <a href="mailto:academy@extend.africa">
                 <button class="btn btn2 p-2">Contact Us</button>
               </a>
             </div>
@@ -137,7 +137,7 @@ export default {
               achieve our goals.
             </div>
             <div class="mt-4">
-              <a href="mailto:xtendafrica@gmail.com">
+              <a href="mailto:hello@extend.africa">
                 <button class="btn btn1 p-2">Contact Us</button>
               </a>
             </div>

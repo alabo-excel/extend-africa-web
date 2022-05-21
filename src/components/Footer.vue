@@ -13,8 +13,12 @@
         >
           <div class="py-1">Register for free</div>
         </a> -->
-        <div class="py-1">become a partner</div>
-        <div class="py-1">Donate</div>
+        <router-link to="/donate">
+          <div class="py-1">become a partner</div>
+        </router-link>
+        <router-link to="/donate">
+          <div class="py-1">Donate</div>
+        </router-link>
       </div>
     </div>
     <div class="col-lg-2 m-3">
