@@ -14,10 +14,12 @@
       </a>
     </div> -->
     <div class="col-lg-12 d-flex justify-content-center donate p-lg-5 p-4">
-      <div class="px-2">
-        donate <br />
-        here
-      </div>
+      <a href="https://paystack.com/pay/Thanks4Donating">
+        <div class="px-2">
+          donate <br />
+          here
+        </div>
+      </a>
       <img src="../assets/doante.png" />
     </div>
   </div>

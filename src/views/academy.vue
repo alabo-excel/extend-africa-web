@@ -20,8 +20,11 @@ export default {
           Specialized XR design and development courses taught by industry
           leading experts.
         </div>
-        <a href="">
+        <a href="https://forms.gle/VgE9Jc4zgsCMWe2t8" target="blank">
           <button class="btn p-3">APPLY NOW</button>
+        </a>
+        <a href="https://forms.gle/JfTVM8uBa68N4QaC9" target="blank">
+          <button class="btn3 btn p-3">APPLY FOR SCHOLARSHIP</button>
         </a>
       </div>
       <div class="col-11 col-lg-5 mt-lg-0 mt-5">
@@ -32,7 +35,9 @@ export default {
       <div class="col-10 p-4 col-lg-3 card mb-lg-3 mb-3">
         <h4 class="heading mb-4">AR/VR Dev</h4>
         <p>
-          The average salary of The salaries of an AR/VR developer ranges from a low of $160,000 to a high of $210,000, with a median salary of $180,000.
+          The average salary of The salaries of an AR/VR developer ranges from a
+          low of $160,000 to a high of $210,000, with a median salary of
+          $180,000.
         </p>
       </div>
       <div class="col-10 p-4 col-lg-3 card mb-lg-3 mb-3">
@@ -142,11 +147,18 @@ h1 {
 .desc {
   font-size: 20px;
 }
+/* .btn3 {
+  font-weight: 700;
+  width: auto !important;
+  background-color: #04062a !important;
+  color: #00f470 !important;
+} */
 .btn {
   background-color: #00f470;
   color: #010216;
   font-weight: 700;
-  width: 200px;
+  width: 250px;
+  margin: 4px;
 }
 .card {
   background-color: #04062a;
@@ -191,6 +203,9 @@ h1 {
   }
   h2 {
     font-size: 36px !important;
+  }
+  .btn {
+    width: 100%;
   }
 }
 </style>

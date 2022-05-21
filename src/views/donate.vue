@@ -58,7 +58,8 @@ export default {
           At Extend Africa, we have impacted hundreds of people to get started
           in Tech Careers and sustain their Tech careers in Africa and beyond.
           Through your donations, sponsorships and partnerships, we'll be able
-          to impact more people in Africa.
+          to impact more people in Africa through data support, laptops, and
+          trainings.
         </div>
       </div>
     </section>
@@ -97,7 +98,9 @@ export default {
               achieve our goals.
             </div>
             <div class="mt-4">
-              <button class="btn btn2 p-2">Donate Now</button>
+              <a href="https://paystack.com/pay/Thanks4Donating">
+                <button class="btn btn2 p-2">Donate Now</button>
+              </a>
             </div>
           </div>
         </div>
@@ -209,9 +212,9 @@ img {
   .row {
     font-size: 14px;
   }
-  .desc{
+  .desc {
     font-size: 25px;
-    padding-top:50px !important;
+    padding-top: 50px !important;
   }
 }
 </style>
