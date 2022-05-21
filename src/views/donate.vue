@@ -1,7 +1,6 @@
 <script>
 import Header from "../components/Header.vue";
 import Footer from "../components/Footer.vue";
-import paystack from "vue-paystack";
 
 export default {
   components: {
@@ -9,43 +8,9 @@ export default {
     Footer,
   },
   date() {
-    return {
-      name: "",
-      email: "",
-      number: "",
-      amount: "",
-      currency: "",
-    };
+    return {};
   },
-  methods: {
-    processPayment: () => {
-      window.alert("Payment recieved");
-    },
-    close: () => {
-      console.log("You closed checkout page");
-    },
-    donate() {
-      this.$launchFlutterwave({
-        tx_ref: Date.now(),
-        amount: this.amount,
-        currency: this.currency,
-        payment_options: "card,mobilemoney,ussd",
-        customer: {
-          email: this.email,
-          phonenumber: this.number,
-          name: this.name,
-        },
-        callback: function (data) {
-          // specified callback function
-          console.log(data);
-        },
-        customizations: {
-          title: "Donation for Extend Africa",
-          logo: "https://media-exp1.licdn.com/dms/image/C4D0BAQEFu0XiX5qptQ/company-logo_200_200/0/1636368682904?e=2147483647&v=beta&t=apXAlcWqXA1mnZ2w32G9w_6RAkX9PQl0NsPaP7exak8",
-        },
-      });
-    },
-  },
+  methods: {},
 };
 </script>
 
