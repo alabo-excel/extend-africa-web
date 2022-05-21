@@ -11,7 +11,7 @@ import Attendees from "../components/Attendees.vue";
 import Speakers from "../components/Speakers.vue";
 import Gallary from "../components/Gallary.vue";
 
-export default{
+export default {
   components: {
     Header,
     Hero,
@@ -24,9 +24,9 @@ export default{
     Team,
     Sponsors,
     Attendees,
-    Speakers
-}
-}
+    Speakers,
+  },
+};
 </script>
 
 <template>
@@ -54,10 +54,10 @@ export default{
   margin-left: 0px !important;
   margin-right: 0px !important;
 }
-a{
+a {
   text-decoration: none;
 }
-a.hover{
+a.hover {
   text-decoration: none;
 }
 @media (max-width: 600px) {

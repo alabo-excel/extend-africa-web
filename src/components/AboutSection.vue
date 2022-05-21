@@ -33,7 +33,16 @@
         </div>
       </div>
     </div>
-
+    <div class="discord p-5 text-center">
+      <div></div>
+      <h1>Extend Africa conference report for 2021</h1>
+      <a
+        href="https://drive.google.com/file/d/1cixiVpoaQtovqdaoX_3omw7eIOVuD22p/view?usp=drivesdk"
+        target="blank"
+      >
+        <button class="btn p-2 mt-4">VIEW NOW</button>
+      </a>
+    </div>
     <div class="py-lg-5">
       <div class="row text-center justify-content-center text-white py-5">
         <div class="col-lg-3 m-4 mx-lg-5">
@@ -82,14 +91,14 @@ img {
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
-  font-family: 'oswald';
+  font-family: "oswald";
 }
 @media (max-width: 600px) {
   img,
   .overlay {
     height: 50vh;
   }
-  div{
+  div {
     font-size: 12px;
   }
 }
