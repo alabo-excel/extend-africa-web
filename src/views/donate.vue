@@ -37,8 +37,8 @@ export default {
           <div class="text-container p-4">
             <div class="heading">Partner with us</div>
             <div class="body">
-              We partner with individuals, brands and organizations to enable us
-              achieve our goals.
+              We collaborate with people, brands and associations to empower us
+              accomplish our objectives.
             </div>
             <div class="mt-4">
               <a href="mailto:xtendafrica@gmail.com">
@@ -57,13 +57,13 @@ export default {
 
         <div class="col-lg-5 order-lg-firs">
           <div class="text-container p-4">
-            <div class="heading">Donate funds</div>
+            <div class="heading">Financial donation</div>
             <div class="body">
-              We partner with individuals, brands and organizations to enable us
-              achieve our goals.
+              Your donations will enable us to put together free events,
+              trainings, support XR owned startups and run our academy.
             </div>
             <div class="mt-4">
-              <a href="https://paystack.com/pay/Thanks4Donating">
+              <a href="https://paystack.com/pay/donate4good">
                 <button class="btn btn2 p-2">Donate Now</button>
               </a>
             </div>
@@ -80,8 +80,8 @@ export default {
           <div class="mt-4 p-4">
             <div class="heading">Donate a Laptop</div>
             <div class="body">
-              We partner with individuals, brands and organizations to enable us
-              achieve our goals.
+              You can constantly give that second PC that you're not utilizing,
+              you will surely be touching lives.
             </div>
             <div class="mt-4">
               <a href="mailto:academy@extend.africa">
@@ -98,8 +98,8 @@ export default {
           <div class="text-container p-4">
             <div class="heading">Sponsor an event</div>
             <div class="body">
-              We partner with individuals, brands and organizations to enable us
-              achieve our goals.
+              As a brand or individual, you can decide to support an event. Send
+              us a message to figure out how you can do this.
             </div>
             <div class="mt-4">
               <a href="mailto:hello@extend.africa">
