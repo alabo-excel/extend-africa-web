@@ -63,7 +63,7 @@ export default {
               trainings, support XR owned startups and run our academy.
             </div>
             <div class="mt-4">
-              <a href="https://paystack.com/pay/donate4good">
+              <a href="https://ravesandbox.flutterwave.com/donate/lndjwyqqreqq">
                 <button class="btn btn2 p-2">Donate Now</button>
               </a>
             </div>
