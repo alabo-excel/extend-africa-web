@@ -6,6 +6,8 @@ import Video from "../components/VideoHero.vue";
 import ComingSoon from "../components/ComingSoon.vue";
 import Gallary from "../components/Gallary.vue";
 import Sponsors from "../components/Sponsors.vue";
+import AboutSection from "../components/AboutSection.vue";
+import Team from "../components/Team.vue";
 
 export default {
   components: {
@@ -16,6 +18,8 @@ export default {
     ComingSoon,
     Gallary,
     Sponsors,
+    AboutSection,
+    Team,
   },
 };
 </script>
@@ -24,9 +28,11 @@ export default {
   <div id="app">
     <!-- <Header /> -->
     <Video />
-    <ComingSoon />
+    <AboutSection />
+    <!-- <ComingSoon /> -->
     <Sponsors />
     <!-- <Gallary /> -->
+        <Team />
     <RegisterSection />
     <Footer />
   </div>

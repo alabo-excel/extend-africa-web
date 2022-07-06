@@ -30,33 +30,12 @@ export default {};
           <router-link to="/academy">
             <li>Academy</li>
           </router-link>
-          <a target="blank" href="https://opensea.io/ExtendAfrica22">
-            <li>NFT</li>
+          <a target="blank" href="https://medium.com/@xtendafrica">
+            <li>Blog</li>
           </a>
           <router-link to="/donate">
             <li>Donate</li>
           </router-link>
-          <a href="https://blog.extend.africa/" target="blank"> <li>Blog</li></a>
-          <!--
-          <router-link to="/speakers">
-            <li>speakers</li>
-          </router-link>
-          <router-link to="/sponsors">
-            <li>sponsors</li>
-          </router-link>
-          <router-link to="/team">
-            <li>team</li>
-          </router-link>
-          <router-link to="/contact">
-            <li>contact us</li>
-          </router-link> -->
-
-          <!-- <a
-            target="blank"
-            href="https://www.eventbrite.com/e/extend-africa-tickets-194647244147"
-          >
-            <li class="register px-4 ml-lg-5">register</li>
-          </a> -->
         </ul>
       </div>
     </nav>

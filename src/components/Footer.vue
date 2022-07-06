@@ -19,6 +19,9 @@
         <router-link to="/donate">
           <div class="py-1">Donate</div>
         </router-link>
+        <router-link to="/terms-and-condition">
+          <div class="py-1">Terms and Conditions</div>
+        </router-link>
       </div>
     </div>
     <div class="col-lg-2 m-3">
@@ -31,11 +34,24 @@
         <router-link to="/conference">
           <div class="py-1">Team</div>
         </router-link>
-        <router-link to="/">
+        <!-- <router-link to="/">
           <div class="py-1">Contact Us</div>
-        </router-link>
+        </router-link> -->
       </div>
     </div>
+    
+    <div class="col-lg-2 m-3">
+      <div class="heading">Contact Us</div>
+      <div class="links pt-2">
+        <a href="mailto:hello@extend.africa">
+          <div class="py-1">hello@extend.africa</div>
+        </a>
+        <a href="tel:+2348108510085">
+          <div class="py-2">+2348108510085</div>
+        </a>
+      </div>
+    </div>
+
     <div class="col-lg-2 m-3">
       <div class="heading">social media</div>
       <div class="pt-3">
@@ -51,6 +67,7 @@
         </a>
       </div>
     </div>
+
     <div class="col-12 line mt-5"></div>
     <div class="col-12 text-center text-white p-3 footer">
       copyright @ ExtendAfrica 2021

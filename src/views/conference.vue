@@ -33,13 +33,13 @@ export default {
   <div id="app">
     <Header />
     <Hero />
-    <AboutSection />
+    <!-- <AboutSection /> -->
     <TopicsSection />
-    <Gallary />
     <Attendees />
     <!-- <Speakers /> -->
     <Sponsors />
-    <Team />
+    <!-- <Team /> -->
+    <Gallary />
     <RegisterSection />
     <Footer />
   </div>

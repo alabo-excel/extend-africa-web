@@ -45,7 +45,7 @@ export default {
 .overlay {
   background-color: #010216;
   width: 100%;
-  height: 124vh;
+  height: 100vh;
   opacity: 70%;
   position: absolute;
   top: 0;

@@ -110,7 +110,10 @@ export default {
         <button class="btn p-2 mt-4">JOIN NOW</button>
       </a>
     </div>
-    <Footer />
+    <!-- <Footer /> -->
+    <div class="text-center p-3 heading">
+      academy@extend.africa
+    </div>
   </div>
 </template>
 
