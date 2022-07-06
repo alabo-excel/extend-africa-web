@@ -111,8 +111,8 @@ export default {
       </a>
     </div>
     <!-- <Footer /> -->
-    <div class="text-center p-3 heading">
-      academy@extend.africa
+    <div class="text-center p-3 ">
+      <a href="mailto: academy@extend.africa" class="heading"> academy@extend.africa </a>
     </div>
   </div>
 </template>
@@ -121,6 +121,10 @@ export default {
 #app {
   background-color: #010216 !important;
   font-family: "Poppins" !important;
+}
+a:hover{
+  text-decoration: none;
+  color: #00f470;
 }
 .row {
   margin-left: 0px !important;
