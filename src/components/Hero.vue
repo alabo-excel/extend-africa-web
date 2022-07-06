@@ -133,5 +133,8 @@ input {
   .btn {
     width: 80%;
   }
+  iframe{
+    display: none;
+  }
 }
 </style>
