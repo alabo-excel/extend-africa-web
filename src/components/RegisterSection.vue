@@ -14,13 +14,19 @@
       </a>
     </div> -->
     <div class="col-lg-12 d-flex justify-content-center donate p-lg-5 p-4">
-      <a href="https://paystack.com/pay/Thanks4Donating" target="blank">
+      <a
+        href="https://sandbox-flw-web-v3.herokuapp.com/pay/v1txhoxi23b9"
+        target="blank"
+      >
         <div class="px-2">
           donate <br />
           here
         </div>
       </a>
-      <a href="https://paystack.com/pay/Thanks4Donating" target="blank">
+      <a
+        href="https://sandbox-flw-web-v3.herokuapp.com/pay/v1txhoxi23b9"
+        target="blank"
+      >
         <img src="/assets/doante.png" />
       </a>
     </div>

@@ -28,44 +28,24 @@ export default {
     return {
       teams: [
         {
-          name: "Albright Tejiri Onodje",
-          img: "../src/assets/speakers/albright.png",
-          stack: "XA lead",
+          name: "",
+          img: "/assets/speakers/speakers.png",
+          stack: "",
         },
         {
-          name: "Arome Ibrahim",
-          img: "../src/assets/speakers/arome.png",
-          stack: "XA lead",
+          name: "",
+          img: "/assets/speakers/speakers.png",
+          stack: "",
         },
         {
-          name: "Gospel Ononwi",
-          img: "../src/assets/speakers/gospel.png",
-          stack: "XA lead",
+          name: "",
+          img: "/assets/speakers/speakers.png",
+          stack: "",
         },
         {
-          name: "Brant Hindman",
-          img: "../src/assets/speakers/hindman.png",
-          stack: "XA lead",
-        },
-        {
-          name: "Judith Okonkwo",
-          img: "../src/assets/speakers/judith.png",
-          stack: "XA lead",
-        },
-        {
-          name: "Oscar Michael",
-          img: "../src/assets/speakers/michael.png",
-          stack: "XA lead",
-        },
-        {
-          name: "Ryan Raphael",
-          img: "../src/assets/speakers/raphael.png",
-          stack: "XA lead",
-        },
-        {
-          name: "Zaid Zaim",
-          img: "../src/assets/speakers/zaid.png",
-          stack: "XA lead",
+          name: "",
+          img: "/assets/speakers/speakers.png",
+          stack: "",
         },
       ],
     };

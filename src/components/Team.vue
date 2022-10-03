@@ -29,7 +29,7 @@ export default {
       teams: [
         {
           name: "Gospel Ononwi",
-          img: "/assets/teams/spells.jpg",
+          img: "/assets/teams/spells.png",
           stack: "XA lead",
         },
         {

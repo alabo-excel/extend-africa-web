@@ -8,6 +8,7 @@ import Gallary from "../components/Gallary.vue";
 import Sponsors from "../components/Sponsors.vue";
 import AboutSection from "../components/AboutSection.vue";
 import Team from "../components/Team.vue";
+import Speakers from "../components/Speakers.vue";
 
 export default {
   components: {
@@ -20,6 +21,7 @@ export default {
     Sponsors,
     AboutSection,
     Team,
+    Speakers
   },
 };
 </script>
@@ -31,7 +33,7 @@ export default {
     <AboutSection />
     <!-- <ComingSoon /> -->
     <Sponsors />
-    <!-- <Gallary /> -->
+    <Speakers />
         <Team />
     <RegisterSection />
     <Footer />

@@ -2,7 +2,7 @@
   <div class="topic py-5">
     <div class="row">
       <div class="col-lg-2 text-center mx-auto">
-        <div class="heading">sponsors</div>
+        <div class="heading w-44">sponsors /partners</div>
         <div class="line mx-auto"></div>
       </div>
     </div>
@@ -25,39 +25,19 @@ export default {
     return {
       sponsors: [
         {
-          img: "/assets/sponsors/accelerate.png",
+          img: "/assets/sponsors/awe.svg",
           desc: "lorem ipsum",
         },
         {
-          img: "/assets/sponsors/experis.png",
+          img: "",
           desc: "lorem ipsum",
         },
         {
-          img: "/assets/sponsors/laninb.png",
+          img: "",
           desc: "lorem ipsum",
         },
         {
-          img: "/assets/sponsors/techrity.png",
-          desc: "lorem ipsum",
-        },
-        {
-          img: "/assets/sponsors/grandmaster.png",
-          desc: "lorem ipsum",
-        },
-        {
-          img: "/assets/sponsors/ata.png",
-          desc: "lorem ipsum",
-        },
-        {
-          img: "/assets/sponsors/urban-dev.png",
-          desc: "lorem ipsum",
-        },
-        {
-          img: "/assets/sponsors/sustainable.png",
-          desc: "lorem ipsum",
-        },
-        {
-          img: "/assets/sponsors/echo3d.png",
+          img: "",
           desc: "lorem ipsum",
         },
       ],
